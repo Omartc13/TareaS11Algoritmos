@@ -92,8 +92,6 @@ public class FDecToHex extends javax.swing.JFrame {
         
         txtNumeroHexa.setText(nuevoNumero.Convertir(numeroDecimal));
         
-        
-
     }//GEN-LAST:event_btnConvertirActionPerformed
 
     private void txtNumeroDecKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtNumeroDecKeyTyped
