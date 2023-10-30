@@ -1,4 +1,4 @@
-package problema2;
+package Problema2;
 
 import java.util.Scanner;
 
@@ -6,13 +6,7 @@ import java.util.Scanner;
  *
  * @author Omar Tc
  */
-public class palindromo {
-
-    //atributos
-    //constructor
-    public static void main(String[] args) {
-
-    }
+public class Palindromo {
 
     public boolean compro(String cad) {
         cad=cad.replaceAll("\\s", "");
